@@ -25,6 +25,7 @@ func main() {
 	// println(num)
 	// return
 
+	
 	// ! melakukan optimasi bilangan prima
 	// num := 13
 	// if num <= 1 {
