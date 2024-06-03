@@ -5,7 +5,7 @@ import (
 	"unsia/lib"
 )
 
-func main() {
+func first_meet() {
 	println("hello world")
 
 	println("-----------------------------------")

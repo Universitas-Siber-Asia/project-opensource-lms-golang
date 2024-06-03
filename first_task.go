@@ -7,7 +7,7 @@ import (
 // mencetak bilangan prima yang kurang dari 10 rb
 
 func first_task() {
-	limit := 10000
+	limit := 10_000
 
 	for num := 2; num < limit; num++ {
 		bilanganPrima := true
