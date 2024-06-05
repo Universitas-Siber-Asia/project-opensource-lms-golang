@@ -3,7 +3,7 @@ package main
 type customeType func(int) bool
 type customeType2 func(int, int) bool
 
-func main() {
+func second_meet() {
 	// ! bilangan prima
 	// ! 1 & dirinya sendiri
 
@@ -25,7 +25,6 @@ func main() {
 	// println(num)
 	// return
 
-	
 	// ! melakukan optimasi bilangan prima
 	// num := 13
 	// if num <= 1 {
