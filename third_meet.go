@@ -27,7 +27,7 @@ type product struct {
 	product_name string
 }
 
-func main() {	
+func thrid_meet() {	
 	
 // ! POINTER
 // 	var i int
